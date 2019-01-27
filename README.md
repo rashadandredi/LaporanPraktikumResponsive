@@ -2,7 +2,8 @@
 1. Kenapa kita perlu membuat web dengan responsive?
    = Agar mudah dikelola dan enak dipandang, selain itu juga untuk meningkatkan pengunjung/visitor website
 2. Bagaimana cara membuat web dengan responsive? Jelaskan!
-   = - Definisikan Meta Tag Untuk Desain Responsive
+   = 
+     - Definisikan Meta Tag Untuk Desain Responsive
 Mobile browser biasanya akan mengatur skala halaman html sesuai lebar viewport, sehingga website tampil di layar mobile. Kamu bisa menggunakan tag meta viewport untuk mereset ulang ini. Tag viewport sendiri digunakan untuk memberitahu browser agar menonaktifkan skala awal
      - Tentukan Struktur HTML
 Langkah kedua yang bisa kamu lakukan yaitu menentukan struktur HTML Website, yang biasanya terdiri dari header, content, sidebar serta footer. Untuk header biasanya dibuat dengan ukuran lebar yang full dan tinggi disesuaikan dengan kebutuhan. Sedangkan content bisa ditentukan misalnya lebar 660px dan sidebar 300px, sehingga lebar keseluruhan adalah 960px.
