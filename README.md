@@ -14,7 +14,7 @@ Langkah terakhir yang akan membuat website kamu bisa responsive. Kemampuan CSS3 
    = Memberikan petunjuk kepada browser cara menyesuaikan ukuran lebar layar pengguna dan inisiasi zoom pada halaman tersebut adalah 1.
 
 4. Bagian mana saja yang perlu kita atur/buat responsive dalam sebuah web!
-   = bagian Header, Content, Footer 
+   = bagian Header, Content, Sidebar, Footer
 
 Hasil Latihan Media Query
 ![alt text](https://github.com/rashadandredi/LaporanPraktikumResponsive/blob/master/hasil/11.PNG)
